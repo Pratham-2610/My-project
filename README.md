@@ -12,7 +12,7 @@ Brahma The Chatbot is a web-based application designed to assist users with prod
 
 ## 🌐 Live Demo
 Access the project here:
-[Click to View] brahmathechatbot.framer.ai
+[Click to View](brahmathechatbot.framer.ai)
 
 ## 🛠️ Technologies Used
 - Online website builder (mention platform if known)
